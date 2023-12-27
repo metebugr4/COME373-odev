@@ -1,0 +1,24 @@
+.box .img-box{
+    width:500px;
+    height:500px;
+    display: flex;
+}
+.img-box{
+   margin-left: 608px;
+   margin-bottom: -86px;
+   margin-top: 23px;
+}
+.img-box img{
+    border-radius: 20px;
+    width:300px;
+    height: 330px;
+}
+h5{
+    color: #edf0f1;
+    font-weight: 600;
+    font-size: 24px;
+}
+
+h2{
+    color: #c22e4e;
+}
